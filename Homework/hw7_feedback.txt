@@ -1,8 +1,0 @@
-question free_vars: 16 / 16 tests, 10.000000 / 10 points
-question unused_vars: 15 / 15 tests, 15.000000 / 15 points
-question subst: 15 / 15 tests, 15.000000 / 15 points
-question eval: 26 / 31 tests, 25.161290 / 30 points
-question type check: 25 / 25 tests, 25.000000 / 25 points
-question unification: 30 / 30 tests, 30.000000 / 30 points
-question infer: 3 / 10 tests, 3.000000 / 10 points
-123.161290 / 125
